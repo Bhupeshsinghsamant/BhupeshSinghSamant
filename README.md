@@ -77,13 +77,10 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhupeshsinghsamant&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+
   <img height="170" src="https://streak-stats.demolab.com?user=Bhupeshsinghsamant&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupeshsinghsamant&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
 
 ---
 
