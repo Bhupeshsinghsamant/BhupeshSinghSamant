@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,50:203a43,100:2c5364&section=header&text=Bhupesh%20Singh%20Samant&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,50:203a43,100:2c5364&section=header&text=Bhupesh%20Singh%20Samant&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20AI/ML%20Enthusiast|%20Problem%20Solver&descAlignY=65"/>
 </p>
 
 <p align="center">
@@ -71,5 +71,5 @@
 ---
 
 <p align="center">
-  <b>Engineering intelligence. Building impact. Improving daily.</b>
+  <b>Engineering intelligence . Solving real-world problems . Improving daily.</b>
 </p>
