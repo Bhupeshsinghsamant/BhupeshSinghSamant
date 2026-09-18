@@ -31,7 +31,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,flask,django,aws,gcp,docker,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,fastapi,mongodb,mysql,git,flask,django,aws,gcp,docker,git&perline=6" />
 </p>
 
 ---
@@ -39,12 +39,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AddhyanB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=AddhyanB&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhupeshsinghsamant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Bhupeshsinghsamant&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AddhyanB&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupeshsinghsamant&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AddhyanB/About/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Bhupeshsinghsamant/About/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -60,11 +60,11 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:addhyanbhardwaj3@gmail.com">
+  <a href="mailto:bhupeshsinghsamant555@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/addhyan-bhardwaj-730b8b290/">
-    <img src="https://img.shields.io/badge/LinkedIn-Addhyan%20Bhardwaj-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/bhupeshsinghsamant-730b8b290/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bhupesh%20Singh%20Samant-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
