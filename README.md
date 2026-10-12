@@ -99,6 +99,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Bhupeshsinghsamant">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupeshsinghsamant&theme=tokyo-night&hide_border=true" alt="GitHub daily contribution activity graph"/>
+  </a>
+</p>
+
 ---
 
 ## 🐍 Contribution Graph
@@ -122,7 +128,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:bhupeshsinghsamant555@gmail.com">Or email: bhupeshsinghsamant555@gmail.com</a>
 </p>
 
 ---
