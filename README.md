@@ -48,12 +48,12 @@ A full-stack e-commerce application focused on product browsing and shopping-car
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhupeshsinghsamant&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Bhupeshsinghsamant&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <a href="https://github.com/Bhupeshsinghsamant"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhupeshsinghsamant&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics including commits"/></a>
+  <a href="https://github.com/Bhupeshsinghsamant"><img height="170" src="https://streak-stats.demolab.com/?user=Bhupeshsinghsamant&theme=tokyonight&hide_border=true" alt="GitHub active days and contribution streak"/></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupeshsinghsamant&theme=tokyo-night&hide_border=true" alt="GitHub activity graph"/>
+  <a href="https://github.com/Bhupeshsinghsamant?tab=repositories"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupeshsinghsamant&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph"/></a>
 </p>
 
 ## 🐍 Contribution Snake
@@ -72,8 +72,8 @@ A full-stack e-commerce application focused on product browsing and shopping-car
   <a href="mailto:bhupeshsinghsamant555@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/bhupeshsinghsamant-730b8b290/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/bhupeshsinghsamant/">
+    <img src="https://img.shields.io/badge/LinkedIn-Open%20Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
