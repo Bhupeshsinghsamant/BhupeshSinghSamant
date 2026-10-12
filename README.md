@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&section=header&text=Bhupesh%20Singh%20Samant&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=65" alt="Bhupesh Singh Samant profile banner"/>
-</p>
+<h1 align="center">Bhupesh Singh Samant</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00E6FF&size=26&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems;Solving+Real-World+Problems;Exploring+AI+%26+Cloud;Improving+Every+Day" alt="Animated introduction"/>
@@ -124,9 +124,6 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bhupeshsinghsamant555@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-Compose%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Open Gmail compose"/>
   </a>
-</p>
-
-<p align="center">
 </p>
 
 ---
