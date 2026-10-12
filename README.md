@@ -98,7 +98,7 @@
 
 <p align="center">
   <a href="https://github.com/Bhupeshsinghsamant">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupeshsinghsamant&theme=github-compact&hide_border=true" alt="Bhupesh Singh Samant's GitHub contribution activity graph"/>
+    <img src="https://ghchart.rshah.org/Bhupeshsinghsamant" alt="GitHub contribution graph in green"/>
   </a>
 </p>
 
