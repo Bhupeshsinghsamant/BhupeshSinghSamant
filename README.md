@@ -68,8 +68,22 @@
 
 ## 🛠️ Tech Stack
 
+**Languages:** C++, Python, JavaScript, SQL
+
+**Frontend:** HTML5, CSS3, React, Vite
+
+**Backend & APIs:** Python, Flask, FastAPI, REST APIs
+
+**Databases:** MongoDB, MySQL
+
+**AI / LLM:** OpenAI API integration
+
+**Tools & Platforms:** Git, GitHub, VS Code, Docker
+
+**Cloud (learning):** AWS, Microsoft Azure, Google Cloud Platform
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,fastapi,mongodb,mysql,git,github,docker,aws,gcp&perline=8" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,vite,flask,fastapi,mongodb,mysql,git,github,docker,aws,azure,gcp&perline=8" alt="Tech stack"/>
 </p>
 
 ---
@@ -98,7 +112,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhupeshsinghsamant-730b8b290/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/bhupeshsinghsamant/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Open%20My%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open Bhupesh's LinkedIn profile"/>
   </a>
   &nbsp;
