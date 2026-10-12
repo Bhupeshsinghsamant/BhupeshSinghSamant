@@ -92,16 +92,13 @@
 
 <p align="center">
   <a href="https://github.com/Bhupeshsinghsamant">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhupeshsinghsamant&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics and commits"/>
-  </a>
-  <a href="https://github.com/Bhupeshsinghsamant">
     <img height="170" src="https://streak-stats.demolab.com?user=Bhupeshsinghsamant&theme=tokyonight&hide_border=true" alt="GitHub active days and contribution streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Bhupeshsinghsamant">
-    <img src="https://ghchart.rshah.org/2f80ed/Bhupeshsinghsamant" alt="GitHub contribution graph showing daily contributions"/>
+    <img src="https://ghchart.rshah.org/Bhupeshsinghsamant" alt="GitHub contribution graph showing daily contributions"/>
   </a>
 </p>
 
