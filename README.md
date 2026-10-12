@@ -69,11 +69,11 @@ A full-stack e-commerce application focused on product browsing and shopping-car
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:bhupeshsinghsamant555@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  <a href="mailto:bhupeshsinghsamant555@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-Open%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Bhupesh"/>
   </a>
-  <a href="https://www.linkedin.com/in/bhupeshsinghsamant/">
-    <img src="https://img.shields.io/badge/LinkedIn-Open%20Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/bhupeshsinghsamant-730b8b290/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Open%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open Bhupesh LinkedIn profile"/>
   </a>
 </p>
 
